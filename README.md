@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Yogalakshmi,
 
-<!--
-**Yogalakshmi-P/Yogalakshmi-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Information Technology Student | 💻 Aspiring Software Engineer | 🚀 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 Pursuing **B.Tech in Information Technology** (Graduating in 2026)
+- 💡 Passionate about **Full Stack Development**, **Java**, and **Problem Solving**
+- 🛠️ Skilled in building projects with **Java, HTML, CSS, JavaScript**
+- 📚 Currently learning **React** & **GitHub Actions (CI/CD)**
+- 💬 I love discussing tech, algorithms, and innovative ideas
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+`Java` `JavaScript` `HTML` `CSS`
+
+**Frameworks & Libraries:**  
+`Flutter` `React` `Bootstrap`
+
+**Tools & Platforms:**  
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Postman`
+
+**Databases:**  
+`MySQL` `MongoDB`
+
+---
+
+## 📌 Projects
+- **To-Do App with User Login** – HTML, CSS, JavaScript + Java Spring Boot  
+  _A simple task management app with authentication._
+  
+- **E-Commerce Website (Mini Project)** – Java, MySQL, JSP  
+  _Basic e-commerce flow with product catalog & cart._
+
+- **Weather App** – JavaScript, OpenWeather API  
+  _Fetches and displays real-time weather info._
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInURL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YourPortfolioURL)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmail@example.com)
+
+---
+
+> 🌱 _"Code, Learn, Repeat – Every day is a chance to grow."_ 🌱
