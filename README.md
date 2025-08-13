@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yogalakshmi,
+# 👋 Hi, I'm Yogalakshmi.
 
 🎓 Final Year Information Technology Student | 💻 Aspiring Software Engineer | 🚀 Lifelong Learner
 
@@ -18,7 +18,7 @@
 `Java` `JavaScript` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`Flutter` `React` `Bootstrap`
+`Flutter` `React` `Spring boot`
 
 **Tools & Platforms:**  
 `Git` `GitHub` `VS Code` `IntelliJ IDEA` `Postman`
@@ -29,14 +29,9 @@
 ---
 
 ## 📌 Projects
-- **To-Do App with User Login** – HTML, CSS, JavaScript + Java Spring Boot  
-  _A simple task management app with authentication._
+- **Resume_Matcher** – Python , HTML , CSS , Javascript  
+  _A simple application get job description and resume gives job matching percentage to user._
   
-- **E-Commerce Website (Mini Project)** – Java, MySQL, JSP  
-  _Basic e-commerce flow with product catalog & cart._
-
-- **Weather App** – JavaScript, OpenWeather API  
-  _Fetches and displays real-time weather info._
 
 ---
 
